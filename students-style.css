@@ -1,0 +1,30 @@
+* { 
+	/*border: 1px solid rgba(255, 255, 255, 0.3);*/
+  }   
+
+	@media only screen and (max-width: 1343px) {
+  .empty {
+	height: 8rem;
+  }
+  }
+  
+  @media only screen and (max-width: 1200px) {
+  .empty {
+	height: 12rem;
+  }
+  .main-container {
+	width: 100%;
+  }
+  }
+  
+  @media only screen and (max-width: 546px) {
+  .empty {
+	height: 16rem;
+  }
+  .navigation li {
+	font-size: 12px;
+  }
+  }
+  img{
+	  float:left;
+  }
