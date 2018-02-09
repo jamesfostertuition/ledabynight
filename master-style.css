@@ -11,7 +11,7 @@ html {
 }
 
 body {
-	background-color: #303030;
+	background-color: #282828;
 	min-height: 100%;
 	padding-bottom: 3rem;
 	position: relative;
@@ -76,7 +76,7 @@ a:not(.inline-link) {
 }
 
 .nav {
-	background-color: #303030;
+	background-color: #282828;
 	width: 100%;
 	text-align: center;
 	position: fixed;
