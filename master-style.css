@@ -79,13 +79,12 @@ a:not(.inline-link) {
 	background-color: #282828;
 	width: 100%;
 	text-align: center;
-	position: fixed;
 	top: 0px;
 	z-index:99;
-	border-top: 2px solid White;
-		-webkit-box-shadow: 0px 0px 20px 1px White;
-		  -moz-box-shadow: 0px 0px 20px 1px White;
-			box-shadow: 0px 0px 20px 1px White;
+	border-top: 2px solid #edb39e;
+		-webkit-box-shadow: 0px 0px 20px 1px #edb39e;
+		  -moz-box-shadow: 0px 0px 20px 1px #edb39e;
+			box-shadow: 0px 0px 20px 1px #edb39e;
 }
 
 .nav li {
@@ -166,6 +165,8 @@ a:not(.inline-link) {
 	background-color: DimGrey;
 	text-align: center;
   }
+
+  
 
 .copyright {
 	max-width: 20rem;

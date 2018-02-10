@@ -23,6 +23,13 @@
 	z-index: 97;
 	padding-top: 1%;
   }
+  
+  #social-block {
+  	float:center;
+  	display: inline-block;
+  	list-style-type:none;
+  }
+  
 	@media only screen and (max-width: 1343px) {
   .empty {
 	height: 8rem;
