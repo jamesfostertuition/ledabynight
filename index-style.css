@@ -10,25 +10,12 @@
 	display: block;
 	   margin-left: auto;
 	   margin-right: auto;
-	width: 40%;
+	width: 50%;
 	z-index: 97;
 	padding-top: 1%;
+	padding-bottom: 1%;
   }
-  
-  #index-image {
-	display: block;
-	   margin-left: auto;
-	   margin-right: auto;
-	width: 40%;
-	z-index: 97;
-	padding-top: 1%;
-  }
-  
-  #social-block {
-  	float:center;
-  	display: inline-block;
-  	list-style-type:none;
-  }
+
   
 	@media only screen and (max-width: 1343px) {
   .empty {
