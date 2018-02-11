@@ -82,9 +82,7 @@ a:not(.inline-link) {
 	top: 0px;
 	z-index:99;
 	border-top: 2px solid #edb39e;
-		-webkit-box-shadow: 0px 0px 20px 1px #edb39e;
-		  -moz-box-shadow: 0px 0px 20px 1px #edb39e;
-			box-shadow: 0px 0px 20px 1px #edb39e;
+	border-bottom: 2px solid #edb39e;
 }
 
 .nav li {

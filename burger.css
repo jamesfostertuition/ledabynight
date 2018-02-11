@@ -6,7 +6,7 @@
   padding: 0;
   margin: 0.75rem 0rem 0.3rem 0rem;
   cursor: pointer;
-  border-bottom: 4px solid White;
+  border-bottom: 4px solid #edb39e;
   width: 28px;
 }
 .burger::-moz-focus-inner {
@@ -16,7 +16,7 @@
 .burger:before {
   content: "";
   display: block;
-  border-bottom: 4px solid White;
+  border-bottom: 4px solid #edb39e;
   width: 100%;
   margin-bottom: 5px;
   transition: -webkit-transform 0.5s ease-in-out;
@@ -27,7 +27,7 @@
 .burger:after {
   content: "";
   display: block;
-  border-bottom: 4px solid White;
+  border-bottom: 4px solid #edb39e;
   width: 100%;
   margin-bottom: 5px;
   transition: -webkit-transform 0.5s ease-in-out;
@@ -83,10 +83,10 @@
 .nav {
 	text-align: center;
 	position: static; 
-	border-top: 2px solid White;
-		-webkit-box-shadow: 0px 0px 0px 0px White;
-		  -moz-box-shadow: 0px 0px 0px 0px White;
-			box-shadow: 0px 0px 0px 0px White;
+	border-top: 2px solid #edb39e;
+		-webkit-box-shadow: 0px 0px 0px 0px #edb39e;
+		  -moz-box-shadow: 0px 0px 0px 0px #edb39e;
+			box-shadow: 0px 0px 0px 0px #edb39e;
       }
 	  
 .nav li {
